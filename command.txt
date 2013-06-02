@@ -1,0 +1,6 @@
+cd "D:\cse414\HW7"
+[replace the directory below with your JDK's bin\ directory]
+path C:\Program Files (x86)\Java\jre7\bin;%path%
+set CLASSPATH=.;sqljdbc4.jar
+javac -g VideoStore.java Query.java
+java VideoStore yl22 123

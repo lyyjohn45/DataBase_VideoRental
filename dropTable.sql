@@ -1,0 +1,5 @@
+/*Yiyuan LI*/
+/*CSE 414 HW7 - DROP TABLE SQL*/
+DROP TABLE Rental;
+DROP TABLE Customer;
+DROP TABLE RentalPlan;
